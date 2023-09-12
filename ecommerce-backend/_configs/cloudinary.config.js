@@ -1,4 +1,4 @@
-export const cloud_name = "rizwansidd"
-export const api_key = "923572625995632"
-export const api_secret = "wcQhY9NBW_fSXg19dSDWNn8KxSw"
+export const cloud_name = "Aalim-Mirza"
+export const api_key = "Not_Define_by Aalim"
+export const api_secret = "Nothing to tell you "
 
